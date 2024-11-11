@@ -80,7 +80,7 @@ Provides a welcome screen for new users to enter their name or continue to the m
 
    ```bash
    git clone https://github.com/seif32/react-pizza-shop.git
-   cd fast-react-pizza-co
+   cd react-pizza-shop
    ```
 
 2. **Install dependencies**:
