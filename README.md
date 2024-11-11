@@ -79,7 +79,7 @@ Provides a welcome screen for new users to enter their name or continue to the m
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/fast-react-pizza-co.git
+   git clone https://github.com/seif32/react-pizza-shop.git
    cd fast-react-pizza-co
    ```
 
